@@ -1,0 +1,13 @@
+.CartItems {
+    background-color: white;
+    flex: 0.7;
+    margin-right: 18px;
+    text-align: left;
+    padding: 20px;
+}
+
+@media screen and (max-width: 850px){
+    .CartItems{
+      margin-right: 0;
+    }
+  }
